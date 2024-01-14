@@ -13,10 +13,12 @@ This program analyzes employee data from a CSV file to provide insights into con
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/himanshu1161/EmployeeAnalysis-using-JS.
    cd <repository_directory>
 Install dependencies:
-
+npm install
+Run:
+node index.js
 
 ## Usage
 Follow the on-screen menu to choose the analysis you want to perform:
