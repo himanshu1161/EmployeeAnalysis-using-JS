@@ -1,0 +1,16 @@
+{
+  "name": "analysisassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "moment": "^2.30.1",
+    "readline-sync": "^1.4.10"
+  }
+}

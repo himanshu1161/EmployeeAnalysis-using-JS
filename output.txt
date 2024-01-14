@@ -1,0 +1,723 @@
+PS D:\Assignments\AnalysisAssignment> node index.js
+Menu:
+1. Analyze 7 Consecutive Days
+2. Analyze Hours Between Shifts
+3. Analyze Single Shift More Than 14 Hours
+4. Exit
+Enter your choice:
+1
+None of the employees worked 7 consecutive days
+Menu:
+1. Analyze 7 Consecutive Days
+2. Analyze Hours Between Shifts
+3. Analyze Single Shift More Than 14 Hours
+4. Exit
+Enter your choice:
+2
+REsaXiaWE, XAis (Position ID: WFS000065) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+REsaXiaWE, XAis (Position ID: WFS000065) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+REsaXiaWE, XAis (Position ID: WFS000065) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+REsaXiaWE, XAis (Position ID: WFS000065) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+REsaXiaWE, XAis (Position ID: WFS000065) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+REsaXiaWE, XAis (Position ID: WFS000065) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+REsaXiaWE, XAis (Position ID: WFS000065) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+REsaXiaWE, XAis (Position ID: WFS000065) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+REsaXiaWE, XAis (Position ID: WFS000065) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+Sparks, KeWWeMh (Position ID: WFS000101) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+Sparks, KeWWeMh (Position ID: WFS000101) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+Sparks, KeWWeMh (Position ID: WFS000101) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+Sparks, KeWWeMh (Position ID: WFS000101) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+Sparks, KeWWeMh (Position ID: WFS000101) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+Sparks, KeWWeMh (Position ID: WFS000101) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+Sparks, KeWWeMh (Position ID: WFS000101) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+Sparks, KeWWeMh (Position ID: WFS000101) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+Sparks, KeWWeMh (Position ID: WFS000101) has less than 10 hours between shifts on 09/23/2023 and 09/23/2023, but greater than 1 hour
+GaXCes, EXias XEpez (Position ID: WFS000127) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour       
+GaXCes, EXias XEpez (Position ID: WFS000127) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour       
+GaXCes, EXias XEpez (Position ID: WFS000127) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour       
+GaXCes, EXias XEpez (Position ID: WFS000127) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour       
+GaXCes, EXias XEpez (Position ID: WFS000127) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour       
+GaXCes, EXias XEpez (Position ID: WFS000127) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+GaXCes, EXias XEpez (Position ID: WFS000127) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour       
+CaMaXaWE, CeghaW (Position ID: WFS000153) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+CaMaXaWE, CeghaW (Position ID: WFS000153) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+CaMaXaWE, CeghaW (Position ID: WFS000153) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+CaMaXaWE, CeghaW (Position ID: WFS000153) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+CaMaXaWE, CeghaW (Position ID: WFS000153) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+CaMaXaWE, CeghaW (Position ID: WFS000153) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+CaMaXaWE, CeghaW (Position ID: WFS000153) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+CaMaXaWE, CeghaW (Position ID: WFS000153) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+CaMaXaWE, CeghaW (Position ID: WFS000153) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+Arias, FeXipe (Position ID: WFS000170) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+Arias, FeXipe (Position ID: WFS000170) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+Arias, FeXipe (Position ID: WFS000170) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+Arias, FeXipe (Position ID: WFS000170) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+Arias, FeXipe (Position ID: WFS000170) has less than 10 hours between shifts on 09/16/2023 and 09/17/2023, but greater than 1 hour
+Arias, FeXipe (Position ID: WFS000170) has less than 10 hours between shifts on 09/17/2023 and 09/18/2023, but greater than 1 hour
+Arias, FeXipe (Position ID: WFS000170) has less than 10 hours between shifts on 09/18/2023 and 09/19/2023, but greater than 1 hour
+Arias, FeXipe (Position ID: WFS000170) has less than 10 hours between shifts on 09/19/2023 and 09/20/2023, but greater than 1 hour
+Arias, FeXipe (Position ID: WFS000170) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+Merrazas, GriaW (Position ID: WFS000180) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+Merrazas, GriaW (Position ID: WFS000180) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+Merrazas, GriaW (Position ID: WFS000180) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+Merrazas, GriaW (Position ID: WFS000180) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+Merrazas, GriaW (Position ID: WFS000180) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+Merrazas, GriaW (Position ID: WFS000180) has less than 10 hours between shifts on 09/23/2023 and 09/23/2023, but greater than 1 hour
+GarWes, JAsMiW (Position ID: WFS000181) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+GarWes, JAsMiW (Position ID: WFS000181) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+GarWes, JAsMiW (Position ID: WFS000181) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+GarWes, JAsMiW (Position ID: WFS000181) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+GarWes, JAsMiW (Position ID: WFS000181) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+GarWes, JAsMiW (Position ID: WFS000181) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+GarWes, JAsMiW (Position ID: WFS000181) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+GarWes, JAsMiW (Position ID: WFS000181) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+GarWes, JAsMiW (Position ID: WFS000181) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+FeXix, XeEWeX (Position ID: WFS000183) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+FeXix, XeEWeX (Position ID: WFS000183) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+FeXix, XeEWeX (Position ID: WFS000183) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+FeXix, XeEWeX (Position ID: WFS000183) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+FeXix, XeEWeX (Position ID: WFS000183) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+FeXix, XeEWeX (Position ID: WFS000183) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+FeXix, XeEWeX (Position ID: WFS000183) has less than 10 hours between shifts on 09/17/2023 and 09/18/2023, but greater than 1 hour
+FeXix, XeEWeX (Position ID: WFS000183) has less than 10 hours between shifts on 09/20/2023 and 09/21/2023, but greater than 1 hour
+FeXix, XeEWeX (Position ID: WFS000183) has less than 10 hours between shifts on 09/21/2023 and 09/22/2023, but greater than 1 hour
+FeXix, XeEWeX (Position ID: WFS000183) has less than 10 hours between shifts on 09/22/2023 and 09/23/2023, but greater than 1 hour
+HerCEsiXXE, PedrE (Position ID: WFS000185) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+HerCEsiXXE, PedrE (Position ID: WFS000185) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+HerCEsiXXE, PedrE (Position ID: WFS000185) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+HerCEsiXXE, PedrE (Position ID: WFS000185) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+HerCEsiXXE, PedrE (Position ID: WFS000185) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+HerCEsiXXE, PedrE (Position ID: WFS000185) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+HerCEsiXXE, PedrE (Position ID: WFS000185) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+HerCEsiXXE, PedrE (Position ID: WFS000185) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+HerCEsiXXE, PedrE (Position ID: WFS000185) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+Xee, XaCar (Position ID: WFS000200) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+Xee, XaCar (Position ID: WFS000200) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+Xee, XaCar (Position ID: WFS000200) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+Xee, XaCar (Position ID: WFS000200) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+Xee, XaCar (Position ID: WFS000200) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+Xee, XaCar (Position ID: WFS000200) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+Xee, XaCar (Position ID: WFS000200) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+Xee, XaCar (Position ID: WFS000200) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+Xee, XaCar (Position ID: WFS000200) has less than 10 hours between shifts on 09/18/2023 and 09/19/2023, but greater than 1 hour
+Xee, XaCar (Position ID: WFS000200) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+Xee, XaCar (Position ID: WFS000200) has less than 10 hours between shifts on 09/19/2023 and 09/20/2023, but greater than 1 hour
+Xee, XaCar (Position ID: WFS000200) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+GaWks, GryaW (Position ID: WFS000226) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+GaWks, GryaW (Position ID: WFS000226) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+GaWks, GryaW (Position ID: WFS000226) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+GaWks, GryaW (Position ID: WFS000226) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+GaWks, GryaW (Position ID: WFS000226) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+GaWks, GryaW (Position ID: WFS000226) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+GaWks, GryaW (Position ID: WFS000226) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+GaWks, GryaW (Position ID: WFS000226) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+GaWks, GryaW (Position ID: WFS000226) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+GaWks, GryaW (Position ID: WFS000226) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+MAake, CasiaWE (Position ID: WFS000228) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+MAake, CasiaWE (Position ID: WFS000228) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+MAake, CasiaWE (Position ID: WFS000228) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+MAake, CasiaWE (Position ID: WFS000228) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+MAake, CasiaWE (Position ID: WFS000228) has less than 10 hours between shifts on 09/22/2023 and 09/23/2023, but greater than 1 hour
+SiWgh, MarAWpreeM (Position ID: WFS000246) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+SiWgh, MarAWpreeM (Position ID: WFS000246) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+SiWgh, MarAWpreeM (Position ID: WFS000246) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+SiWgh, MarAWpreeM (Position ID: WFS000246) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+SiWgh, MarAWpreeM (Position ID: WFS000246) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+SiWgh, MarAWpreeM (Position ID: WFS000246) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+SiWgh, MarAWpreeM (Position ID: WFS000246) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+SiWgh, MarAWpreeM (Position ID: WFS000246) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+SiWgh, MarAWpreeM (Position ID: WFS000246) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+DiWh, DaA (Position ID: WFS000268) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+DiWh, DaA (Position ID: WFS000268) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+DiWh, DaA (Position ID: WFS000268) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+DiWh, DaA (Position ID: WFS000268) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+DiWh, DaA (Position ID: WFS000268) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+DiWh, DaA (Position ID: WFS000268) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+DiWh, DaA (Position ID: WFS000268) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+DiWh, DaA (Position ID: WFS000268) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+ArEsMigAi, AXexaWder (Position ID: WFS000306) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour      
+ArEsMigAi, AXexaWder (Position ID: WFS000306) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour      
+ArEsMigAi, AXexaWder (Position ID: WFS000306) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour      
+ArEsMigAi, AXexaWder (Position ID: WFS000306) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour      
+ArEsMigAi, AXexaWder (Position ID: WFS000306) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour      
+ArEsMigAi, AXexaWder (Position ID: WFS000306) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour      
+De Xa Cerda, IgWaciE (Position ID: WFS000318) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour      
+De Xa Cerda, IgWaciE (Position ID: WFS000318) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour      
+De Xa Cerda, IgWaciE (Position ID: WFS000318) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+De Xa Cerda, IgWaciE (Position ID: WFS000318) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour      
+De Xa Cerda, IgWaciE (Position ID: WFS000318) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour      
+De Xa Cerda, IgWaciE (Position ID: WFS000318) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour      
+De Xa Cerda, IgWaciE (Position ID: WFS000318) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour      
+De Xa Cerda, IgWaciE (Position ID: WFS000318) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour      
+De Xa Cerda, IgWaciE (Position ID: WFS000318) has less than 10 hours between shifts on 09/23/2023 and 09/23/2023, but greater than 1 hour      
+REdrigAez, PedrE (Position ID: WFS000336) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+REdrigAez, PedrE (Position ID: WFS000336) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+REdrigAez, PedrE (Position ID: WFS000336) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+REdrigAez, PedrE (Position ID: WFS000336) has less than 10 hours between shifts on 09/20/2023 and 09/21/2023, but greater than 1 hour
+REdrigAez, PedrE (Position ID: WFS000336) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+MraW, WiXXiaC Ha (Position ID: WFS000345) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+MraW, WiXXiaC Ha (Position ID: WFS000345) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+MraW, WiXXiaC Ha (Position ID: WFS000345) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+MraW, WiXXiaC Ha (Position ID: WFS000345) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+MraW, WiXXiaC Ha (Position ID: WFS000345) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+MraW, WiXXiaC Ha (Position ID: WFS000345) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+MraW, WiXXiaC Ha (Position ID: WFS000345) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+MraW, WiXXiaC Ha (Position ID: WFS000345) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+MraW, WiXXiaC Ha (Position ID: WFS000345) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+MraW, WiXXiaC Ha (Position ID: WFS000345) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+MraW, WiXXiaC Ha (Position ID: WFS000345) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+MAcker, CichaeX (Position ID: WFS000360) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+MAcker, CichaeX (Position ID: WFS000360) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+MAcker, CichaeX (Position ID: WFS000360) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+MAcker, CichaeX (Position ID: WFS000360) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+MAcker, CichaeX (Position ID: WFS000360) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+MAcker, CichaeX (Position ID: WFS000360) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+MAcker, CichaeX (Position ID: WFS000360) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+MAcker, CichaeX (Position ID: WFS000360) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+MAcker, CichaeX (Position ID: WFS000360) has less than 10 hours between shifts on 09/23/2023 and 09/23/2023, but greater than 1 hour
+CaMXEck, CEhaCCed (Position ID: WFS000362) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+CaMXEck, CEhaCCed (Position ID: WFS000362) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+CaMXEck, CEhaCCed (Position ID: WFS000362) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+CaMXEck, CEhaCCed (Position ID: WFS000362) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+CaMXEck, CEhaCCed (Position ID: WFS000362) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+CaMXEck, CEhaCCed (Position ID: WFS000362) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+CaMXEck, CEhaCCed (Position ID: WFS000362) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+CaMXEck, CEhaCCed (Position ID: WFS000362) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+MaXeGi, ACirCasEAd (Position ID: WFS000364) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour        
+MaXeGi, ACirCasEAd (Position ID: WFS000364) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour        
+MaXeGi, ACirCasEAd (Position ID: WFS000364) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour        
+MaXeGi, ACirCasEAd (Position ID: WFS000364) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour        
+MaXeGi, ACirCasEAd (Position ID: WFS000364) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour        
+MaXeGi, ACirCasEAd (Position ID: WFS000364) has less than 10 hours between shifts on 09/23/2023 and 09/23/2023, but greater than 1 hour        
+PayaW, DaWieX (Position ID: WFS000368) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+PayaW, DaWieX (Position ID: WFS000368) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+PayaW, DaWieX (Position ID: WFS000368) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+PayaW, DaWieX (Position ID: WFS000368) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+PayaW, DaWieX (Position ID: WFS000368) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+PayaW, DaWieX (Position ID: WFS000368) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+PayaW, DaWieX (Position ID: WFS000368) has less than 10 hours between shifts on 09/23/2023 and 09/23/2023, but greater than 1 hour
+ErMiz, AGigaiX (Position ID: WFS000372) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+ErMiz, AGigaiX (Position ID: WFS000372) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+ErMiz, AGigaiX (Position ID: WFS000372) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+ErMiz, AGigaiX (Position ID: WFS000372) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+ErMiz, AGigaiX (Position ID: WFS000372) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+ErMiz, AGigaiX (Position ID: WFS000372) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+ErMiz, AGigaiX (Position ID: WFS000372) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+ErMiz, AGigaiX (Position ID: WFS000372) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+ErMiz, AGigaiX (Position ID: WFS000372) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+ErMiz, AGigaiX (Position ID: WFS000372) has less than 10 hours between shifts on 09/23/2023 and 09/23/2023, but greater than 1 hour
+ErEpeza, JEvaW (Position ID: WFS000382) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+ErEpeza, JEvaW (Position ID: WFS000382) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+ErEpeza, JEvaW (Position ID: WFS000382) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+ErEpeza, JEvaW (Position ID: WFS000382) has less than 10 hours between shifts on 09/20/2023 and 09/21/2023, but greater than 1 hour
+ErEpeza, JEvaW (Position ID: WFS000382) has less than 10 hours between shifts on 09/21/2023 and 09/22/2023, but greater than 1 hour
+ErEpeza, JEvaW (Position ID: WFS000382) has less than 10 hours between shifts on 09/23/2023 and 09/23/2023, but greater than 1 hour
+VasqAez, AXfredE (Position ID: WFS000391) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+VasqAez, AXfredE (Position ID: WFS000391) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+VasqAez, AXfredE (Position ID: WFS000391) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+VasqAez, AXfredE (Position ID: WFS000391) has less than 10 hours between shifts on 09/16/2023 and 09/17/2023, but greater than 1 hour
+VasqAez, AXfredE (Position ID: WFS000391) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+VasqAez, AXfredE (Position ID: WFS000391) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+SavaWg, JEhW (Position ID: WFS000393) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+SavaWg, JEhW (Position ID: WFS000393) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+SavaWg, JEhW (Position ID: WFS000393) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+SavaWg, JEhW (Position ID: WFS000393) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+SavaWg, JEhW (Position ID: WFS000393) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+SavaWg, JEhW (Position ID: WFS000393) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+REdrigAez, XAis (Position ID: WFS000412) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+REdrigAez, XAis (Position ID: WFS000412) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+REdrigAez, XAis (Position ID: WFS000412) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+REdrigAez, XAis (Position ID: WFS000412) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+REdrigAez, XAis (Position ID: WFS000412) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+REdrigAez, XAis (Position ID: WFS000412) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+REdrigAez, XAis (Position ID: WFS000412) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+REdrigAez, XAis (Position ID: WFS000412) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+REdrigAez, XAis (Position ID: WFS000412) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+EasMCaW, CichaeX (Position ID: WFS000414) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+EasMCaW, CichaeX (Position ID: WFS000414) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+EasMCaW, CichaeX (Position ID: WFS000414) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+EasMCaW, CichaeX (Position ID: WFS000414) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+EasMCaW, CichaeX (Position ID: WFS000414) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+EasMCaW, CichaeX (Position ID: WFS000414) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+EasMCaW, CichaeX (Position ID: WFS000414) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+EasMCaW, CichaeX (Position ID: WFS000414) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+EasMCaW, CichaeX (Position ID: WFS000414) has less than 10 hours between shifts on 09/23/2023 and 09/23/2023, but greater than 1 hour
+SiWgh, CaWpreeM (Position ID: WFS000418) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+SiWgh, CaWpreeM (Position ID: WFS000418) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+SiWgh, CaWpreeM (Position ID: WFS000418) has less than 10 hours between shifts on 09/20/2023 and 09/21/2023, but greater than 1 hour
+SiWgh, CaWpreeM (Position ID: WFS000418) has less than 10 hours between shifts on 09/23/2023 and 09/23/2023, but greater than 1 hour
+RECerE, SergiE (Position ID: WFS000420) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+SiWgh, JaspreeM (Position ID: WFS000424) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+SiWgh, JaspreeM (Position ID: WFS000424) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+SiWgh, JaspreeM (Position ID: WFS000424) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+SiWgh, JaspreeM (Position ID: WFS000424) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+SiWgh, JaspreeM (Position ID: WFS000424) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+SiWgh, JaspreeM (Position ID: WFS000424) has less than 10 hours between shifts on 09/15/2023 and 09/16/2023, but greater than 1 hour
+SiWgh, JaspreeM (Position ID: WFS000424) has less than 10 hours between shifts on 09/16/2023 and 09/17/2023, but greater than 1 hour
+SiWgh, JaspreeM (Position ID: WFS000424) has less than 10 hours between shifts on 09/17/2023 and 09/18/2023, but greater than 1 hour
+SiWgh, JaspreeM (Position ID: WFS000424) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+SiWgh, JaspreeM (Position ID: WFS000424) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+SiWgXeMEW, REger (Position ID: WFS000426) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+SiWgXeMEW, REger (Position ID: WFS000426) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+SiWgXeMEW, REger (Position ID: WFS000426) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+SiWgXeMEW, REger (Position ID: WFS000426) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+SiWgXeMEW, REger (Position ID: WFS000426) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+SiWgXeMEW, REger (Position ID: WFS000426) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+SiWgXeMEW, REger (Position ID: WFS000426) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+SiWgXeMEW, REger (Position ID: WFS000426) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+SiWgXeMEW, REger (Position ID: WFS000426) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+SiWgXeMEW, REger (Position ID: WFS000426) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+PaXaciE, JEWaMhaW (Position ID: WFS000434) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+PaXaciE, JEWaMhaW (Position ID: WFS000434) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+PaXaciE, JEWaMhaW (Position ID: WFS000434) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+PaXaciE, JEWaMhaW (Position ID: WFS000434) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+PaXaciE, JEWaMhaW (Position ID: WFS000434) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+PaXaciE, JEWaMhaW (Position ID: WFS000434) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+PaXaciE, JEWaMhaW (Position ID: WFS000434) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+PaXaciE, JEWaMhaW (Position ID: WFS000434) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+ErEzcE, SaAX (Position ID: WFS000442) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+ErEzcE, SaAX (Position ID: WFS000442) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+ErEzcE, SaAX (Position ID: WFS000442) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+ErEzcE, SaAX (Position ID: WFS000442) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+ErEzcE, SaAX (Position ID: WFS000442) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+ErEzcE, SaAX (Position ID: WFS000442) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+ErEzcE, SaAX (Position ID: WFS000442) has less than 10 hours between shifts on 09/21/2023 and 09/22/2023, but greater than 1 hour
+CercadE, SaAX (Position ID: WFS000446) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+CercadE, SaAX (Position ID: WFS000446) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+CercadE, SaAX (Position ID: WFS000446) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+CercadE, SaAX (Position ID: WFS000446) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+CercadE, SaAX (Position ID: WFS000446) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+CercadE, SaAX (Position ID: WFS000446) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+CercadE, SaAX (Position ID: WFS000446) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+CercadE, SaAX (Position ID: WFS000446) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+CercadE, SaAX (Position ID: WFS000446) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+CEreira Jr, JEse (Position ID: WFS000456) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+CEreira Jr, JEse (Position ID: WFS000456) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+CEreira Jr, JEse (Position ID: WFS000456) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+CEreira Jr, JEse (Position ID: WFS000456) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+CEreira Jr, JEse (Position ID: WFS000456) has less than 10 hours between shifts on 09/16/2023 and 09/17/2023, but greater than 1 hour
+CEreira Jr, JEse (Position ID: WFS000456) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+CEreira Jr, JEse (Position ID: WFS000456) has less than 10 hours between shifts on 09/21/2023 and 09/22/2023, but greater than 1 hour
+CEreira Jr, JEse (Position ID: WFS000456) has less than 10 hours between shifts on 09/23/2023 and 09/23/2023, but greater than 1 hour
+AXvarez, Edgar (Position ID: WFS000457) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+AXvarez, Edgar (Position ID: WFS000457) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+AXvarez, Edgar (Position ID: WFS000457) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+AXvarez, Edgar (Position ID: WFS000457) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+AXvarez, Edgar (Position ID: WFS000457) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+AXvarez, Edgar (Position ID: WFS000457) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+AXvarez, Edgar (Position ID: WFS000457) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+AXvarez, Edgar (Position ID: WFS000457) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+AXvarez, Edgar (Position ID: WFS000457) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+AXvarez, Edgar (Position ID: WFS000457) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+PaAXE, KyXe (Position ID: WFS000460) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+PaAXE, KyXe (Position ID: WFS000460) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+PaAXE, KyXe (Position ID: WFS000460) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+PaAXE, KyXe (Position ID: WFS000460) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+PaAXE, KyXe (Position ID: WFS000460) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+XiWW, JAsMiW (Position ID: WFS000462) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+XiWW, JAsMiW (Position ID: WFS000462) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+XiWW, JAsMiW (Position ID: WFS000462) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+XiWW, JAsMiW (Position ID: WFS000462) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+XiWW, JAsMiW (Position ID: WFS000462) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+XiWW, JAsMiW (Position ID: WFS000462) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+XiWW, JAsMiW (Position ID: WFS000462) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+CaXdEWadE, AXfEWsE (Position ID: WFS000463) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour        
+CaXdEWadE, AXfEWsE (Position ID: WFS000463) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour        
+CaXdEWadE, AXfEWsE (Position ID: WFS000463) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour        
+CaXdEWadE, AXfEWsE (Position ID: WFS000463) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour        
+CaXdEWadE, AXfEWsE (Position ID: WFS000463) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour        
+CaXdEWadE, AXfEWsE (Position ID: WFS000463) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour        
+CaXdEWadE, AXfEWsE (Position ID: WFS000463) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour        
+CaXdEWadE, AXfEWsE (Position ID: WFS000463) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour        
+CaXdEWadE, AXfEWsE (Position ID: WFS000463) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour        
+CaXdEWadE, AXfEWsE (Position ID: WFS000463) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour        
+CeWdEza, Erik (Position ID: WFS000465) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+CeWdEza, Erik (Position ID: WFS000465) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+CeWdEza, Erik (Position ID: WFS000465) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+PerkiWs, MarraWce (Position ID: WFS000469) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+PerkiWs, MarraWce (Position ID: WFS000469) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+PerkiWs, MarraWce (Position ID: WFS000469) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+PerkiWs, MarraWce (Position ID: WFS000469) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+PerkiWs, MarraWce (Position ID: WFS000469) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+PerkiWs, MarraWce (Position ID: WFS000469) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+PerkiWs, MarraWce (Position ID: WFS000469) has less than 10 hours between shifts on 09/23/2023 and 09/23/2023, but greater than 1 hour
+GAeWdia, JAaW CarXEs (Position ID: WFS000473) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour      
+GAeWdia, JAaW CarXEs (Position ID: WFS000473) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour      
+GAeWdia, JAaW CarXEs (Position ID: WFS000473) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour      
+GAeWdia, JAaW CarXEs (Position ID: WFS000473) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour      
+GAeWdia, JAaW CarXEs (Position ID: WFS000473) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour      
+GAeWdia, JAaW CarXEs (Position ID: WFS000473) has less than 10 hours between shifts on 09/16/2023 and 09/17/2023, but greater than 1 hour
+GAeWdia, JAaW CarXEs (Position ID: WFS000473) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour      
+GAeWdia, JAaW CarXEs (Position ID: WFS000473) has less than 10 hours between shifts on 09/18/2023 and 09/19/2023, but greater than 1 hour      
+GAeWdia, JAaW CarXEs (Position ID: WFS000473) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour      
+GAeWdia, JAaW CarXEs (Position ID: WFS000473) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour      
+GAeWdia, JAaW CarXEs (Position ID: WFS000473) has less than 10 hours between shifts on 09/22/2023 and 09/23/2023, but greater than 1 hour      
+ZaCEra, Edward (Position ID: WFS000477) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+ZaCEra, Edward (Position ID: WFS000477) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+ZaCEra, Edward (Position ID: WFS000477) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+ZaCEra, Edward (Position ID: WFS000477) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+ZaCEra, Edward (Position ID: WFS000477) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+ArevaXE, JEse (Position ID: WFS000491) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+ArevaXE, JEse (Position ID: WFS000491) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+ArevaXE, JEse (Position ID: WFS000491) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+ArevaXE, JEse (Position ID: WFS000491) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+ArevaXE, JEse (Position ID: WFS000491) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+ArevaXE, JEse (Position ID: WFS000491) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+ArevaXE, JEse (Position ID: WFS000491) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+ArevaXE, JEse (Position ID: WFS000491) has less than 10 hours between shifts on 09/23/2023 and 09/23/2023, but greater than 1 hour
+CErMes, DEAgXas Farid (Position ID: WFS000495) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour     
+CErMes, DEAgXas Farid (Position ID: WFS000495) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour     
+CErMes, DEAgXas Farid (Position ID: WFS000495) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour     
+CErMes, DEAgXas Farid (Position ID: WFS000495) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour     
+CErMes, DEAgXas Farid (Position ID: WFS000495) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour     
+CErMes, DEAgXas Farid (Position ID: WFS000495) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour     
+CErMes, DEAgXas Farid (Position ID: WFS000495) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour     
+CErMes, DEAgXas Farid (Position ID: WFS000495) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour     
+CErMes, DEAgXas Farid (Position ID: WFS000495) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour     
+CErMes, DEAgXas Farid (Position ID: WFS000495) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour     
+CercadE, CrisMiaW (Position ID: WFS000496) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+CercadE, CrisMiaW (Position ID: WFS000496) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+CercadE, CrisMiaW (Position ID: WFS000496) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+CercadE, CrisMiaW (Position ID: WFS000496) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+CercadE, CrisMiaW (Position ID: WFS000496) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+CercadE, CrisMiaW (Position ID: WFS000496) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+CercadE, CrisMiaW (Position ID: WFS000496) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+CercadE, CrisMiaW (Position ID: WFS000496) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+ZaCEra, CigAeX (Position ID: WFS000499) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+ZaCEra, CigAeX (Position ID: WFS000499) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+ZaCEra, CigAeX (Position ID: WFS000499) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+ZaCEra, CigAeX (Position ID: WFS000499) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+ZaCEra, CigAeX (Position ID: WFS000499) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+ZaCEra, CigAeX (Position ID: WFS000499) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+ZaCEra, CigAeX (Position ID: WFS000499) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+ZaCEra, CigAeX (Position ID: WFS000499) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+ZaCEra, CigAeX (Position ID: WFS000499) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+Caxies, MerreXX (Position ID: WFS000500) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+Caxies, MerreXX (Position ID: WFS000500) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+Caxies, MerreXX (Position ID: WFS000500) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+Caxies, MerreXX (Position ID: WFS000500) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+Caxies, MerreXX (Position ID: WFS000500) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+Caxies, MerreXX (Position ID: WFS000500) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+Caxies, MerreXX (Position ID: WFS000500) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+Caxies, MerreXX (Position ID: WFS000500) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+Caxies, MerreXX (Position ID: WFS000500) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+CcRAWWeX, REWaXd Xee (Position ID: WFS000501) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour      
+CcRAWWeX, REWaXd Xee (Position ID: WFS000501) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour      
+CcRAWWeX, REWaXd Xee (Position ID: WFS000501) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour      
+CcRAWWeX, REWaXd Xee (Position ID: WFS000501) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour      
+CcRAWWeX, REWaXd Xee (Position ID: WFS000501) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour      
+CcRAWWeX, REWaXd Xee (Position ID: WFS000501) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour      
+CcRAWWeX, REWaXd Xee (Position ID: WFS000501) has less than 10 hours between shifts on 09/19/2023 and 09/20/2023, but greater than 1 hour      
+CcRAWWeX, REWaXd Xee (Position ID: WFS000501) has less than 10 hours between shifts on 09/23/2023 and 09/23/2023, but greater than 1 hour      
+CEMMa, Jessica (Position ID: WFS000503) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+CEMMa, Jessica (Position ID: WFS000503) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+CEMMa, Jessica (Position ID: WFS000503) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+CEMMa, Jessica (Position ID: WFS000503) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+CEMMa, Jessica (Position ID: WFS000503) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+CEMMa, Jessica (Position ID: WFS000503) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+CEMMa, Jessica (Position ID: WFS000503) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+CEMMa, Jessica (Position ID: WFS000503) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+REdrigAez, AXexis GAMierrez (Position ID: WFS000505) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+REdrigAez, AXexis GAMierrez (Position ID: WFS000505) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+Rivera AXcaWMar, GrayaW (Position ID: WFS000507) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour   
+Rivera AXcaWMar, GrayaW (Position ID: WFS000507) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour   
+Rivera AXcaWMar, GrayaW (Position ID: WFS000507) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour   
+Rivera AXcaWMar, GrayaW (Position ID: WFS000507) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour   
+Rivera AXcaWMar, GrayaW (Position ID: WFS000507) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour   
+EXivares, FeXCaW (Position ID: WFS000508) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+EXivares, FeXCaW (Position ID: WFS000508) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+EXivares, FeXCaW (Position ID: WFS000508) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+EXivares, FeXCaW (Position ID: WFS000508) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+EXivares, FeXCaW (Position ID: WFS000508) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+EXivares, FeXCaW (Position ID: WFS000508) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+EXivares, FeXCaW (Position ID: WFS000508) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+EXivares, FeXCaW (Position ID: WFS000508) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+EXivares, FeXCaW (Position ID: WFS000508) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+ChaCErE, HEXger CarMiWez (Position ID: WFS000509) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour  
+ChaCErE, HEXger CarMiWez (Position ID: WFS000509) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour  
+ChaCErE, HEXger CarMiWez (Position ID: WFS000509) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour  
+ChaCErE, HEXger CarMiWez (Position ID: WFS000509) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour  
+ChaCErE, HEXger CarMiWez (Position ID: WFS000509) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour  
+ChaCErE, HEXger CarMiWez (Position ID: WFS000509) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour  
+ChaCErE, HEXger CarMiWez (Position ID: WFS000509) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour  
+ChaCErE, HEXger CarMiWez (Position ID: WFS000509) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour  
+ChaCErE, HEXger CarMiWez (Position ID: WFS000509) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour  
+WiXXiaCs, MyrreXX (Position ID: WFS000511) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+WiXXiaCs, MyrreXX (Position ID: WFS000511) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+WiXXiaCs, MyrreXX (Position ID: WFS000511) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+WiXXiaCs, MyrreXX (Position ID: WFS000511) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+WiXXiaCs, MyrreXX (Position ID: WFS000511) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+WiXXiaCs, MyrreXX (Position ID: WFS000511) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+WiXXiaCs, MyrreXX (Position ID: WFS000511) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+WiXXiaCs, MyrreXX (Position ID: WFS000511) has less than 10 hours between shifts on 09/19/2023 and 09/20/2023, but greater than 1 hour
+CaraGiXXa, AWMhEWy (Position ID: WFS000514) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour        
+CaraGiXXa, AWMhEWy (Position ID: WFS000514) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour        
+CaraGiXXa, AWMhEWy (Position ID: WFS000514) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour        
+GrACfieXd, CErWeXiAs (Position ID: WFS000515) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour      
+GrACfieXd, CErWeXiAs (Position ID: WFS000515) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour      
+GrACfieXd, CErWeXiAs (Position ID: WFS000515) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour      
+GrACfieXd, CErWeXiAs (Position ID: WFS000515) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour      
+GrACfieXd, CErWeXiAs (Position ID: WFS000515) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour      
+GrACfieXd, CErWeXiAs (Position ID: WFS000515) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour      
+GrACfieXd, CErWeXiAs (Position ID: WFS000515) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour      
+GrACfieXd, CErWeXiAs (Position ID: WFS000515) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour      
+Perez, EdwiW JiCeWez (Position ID: WFS000517) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour      
+Perez, EdwiW JiCeWez (Position ID: WFS000517) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour      
+Perez, EdwiW JiCeWez (Position ID: WFS000517) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour      
+Perez, EdwiW JiCeWez (Position ID: WFS000517) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour      
+Perez, EdwiW JiCeWez (Position ID: WFS000517) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour      
+Perez, EdwiW JiCeWez (Position ID: WFS000517) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour      
+Perez, EdwiW JiCeWez (Position ID: WFS000517) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour      
+Perez, EdwiW JiCeWez (Position ID: WFS000517) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour      
+ArrAMia, AXexis ArMArE (Position ID: WFS000518) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour    
+ArrAMia, AXexis ArMArE (Position ID: WFS000518) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour    
+ArrAMia, AXexis ArMArE (Position ID: WFS000518) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour    
+ArrAMia, AXexis ArMArE (Position ID: WFS000518) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour    
+DiXXard, JEwaWW Cedric (Position ID: WFS000519) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour    
+DiXXard, JEwaWW Cedric (Position ID: WFS000519) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour    
+DiXXard, JEwaWW Cedric (Position ID: WFS000519) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour    
+DiXXard, JEwaWW Cedric (Position ID: WFS000519) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour    
+DiXXard, JEwaWW Cedric (Position ID: WFS000519) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour    
+DiXXard, JEwaWW Cedric (Position ID: WFS000519) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour    
+DiXXard, JEwaWW Cedric (Position ID: WFS000519) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+DiXXard, JEwaWW Cedric (Position ID: WFS000519) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour    
+DiXXard, JEwaWW Cedric (Position ID: WFS000519) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour    
+DiXXard, JEwaWW Cedric (Position ID: WFS000519) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour    
+SaWchez PaCpXEWa, CrisMiaW AXGerM (Position ID: WFS000521) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+SaWchez PaCpXEWa, CrisMiaW AXGerM (Position ID: WFS000521) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+SaWchez PaCpXEWa, CrisMiaW AXGerM (Position ID: WFS000521) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+SaWchez PaCpXEWa, CrisMiaW AXGerM (Position ID: WFS000521) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+SaWchez PaCpXEWa, CrisMiaW AXGerM (Position ID: WFS000521) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+XEpez WAWez, XAis (Position ID: WFS000522) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+XEpez WAWez, XAis (Position ID: WFS000522) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+XEpez WAWez, XAis (Position ID: WFS000522) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+XEpez WAWez, XAis (Position ID: WFS000522) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+XEpez WAWez, XAis (Position ID: WFS000522) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+XEpez WAWez, XAis (Position ID: WFS000522) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+XEpez WAWez, XAis (Position ID: WFS000522) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+XEpez WAWez, XAis (Position ID: WFS000522) has less than 10 hours between shifts on 09/19/2023 and 09/20/2023, but greater than 1 hour
+DeXgadiXXE REdarMe, ChrisMiaW S (Position ID: WFS000523) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+DeXgadiXXE REdarMe, ChrisMiaW S (Position ID: WFS000523) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+DeXgadiXXE REdarMe, ChrisMiaW S (Position ID: WFS000523) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+DeXgadiXXE REdarMe, ChrisMiaW S (Position ID: WFS000523) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+DeXgadiXXE REdarMe, ChrisMiaW S (Position ID: WFS000523) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+DeXgadiXXE REdarMe, ChrisMiaW S (Position ID: WFS000523) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+DeXgadiXXE REdarMe, ChrisMiaW S (Position ID: WFS000523) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+DeXgadiXXE REdarMe, ChrisMiaW S (Position ID: WFS000523) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+CeciWa, SiXvesMre Jr (Position ID: WFS000528) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour      
+CeciWa, SiXvesMre Jr (Position ID: WFS000528) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour      
+CeciWa, SiXvesMre Jr (Position ID: WFS000528) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour      
+CeciWa, SiXvesMre Jr (Position ID: WFS000528) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour      
+FaGiaW CiraWda, JEse (Position ID: WFS000530) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour      
+FaGiaW CiraWda, JEse (Position ID: WFS000530) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour      
+FaGiaW CiraWda, JEse (Position ID: WFS000530) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour      
+HaCiXMEW, DeaWMe DevEW (Position ID: WFS000536) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour    
+HaCiXMEW, DeaWMe DevEW (Position ID: WFS000536) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour    
+HaCiXMEW, DeaWMe DevEW (Position ID: WFS000536) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour    
+HaCiXMEW, DeaWMe DevEW (Position ID: WFS000536) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour    
+HaCiXMEW, DeaWMe DevEW (Position ID: WFS000536) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour    
+HaCiXMEW, DeaWMe DevEW (Position ID: WFS000536) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour    
+HAWMer, ViWceWM De PaAX (Position ID: WFS000538) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+HAWMer, ViWceWM De PaAX (Position ID: WFS000538) has less than 10 hours between shifts on 09/21/2023 and 09/22/2023, but greater than 1 hour   
+AXcEcer, ECar JesAs (Position ID: WFS000541) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour       
+AXcEcer, ECar JesAs (Position ID: WFS000541) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour       
+AXcEcer, ECar JesAs (Position ID: WFS000541) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour       
+AXcEcer, ECar JesAs (Position ID: WFS000541) has less than 10 hours between shifts on 09/20/2023 and 09/21/2023, but greater than 1 hour       
+AXcEcer, ECar JesAs (Position ID: WFS000541) has less than 10 hours between shifts on 09/21/2023 and 09/22/2023, but greater than 1 hour       
+IWGEAa, JeffersEW (Position ID: WFS000546) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+IWGEAa, JeffersEW (Position ID: WFS000546) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+IWGEAa, JeffersEW (Position ID: WFS000546) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+IWGEAa, JeffersEW (Position ID: WFS000546) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+IWGEAa, JeffersEW (Position ID: WFS000546) has less than 10 hours between shifts on 09/23/2023 and 09/23/2023, but greater than 1 hour
+CesiWa CEreWE, KeviW FaGiaW (Position ID: WFS000548) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+CesiWa CEreWE, KeviW FaGiaW (Position ID: WFS000548) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+CesiWa CEreWE, KeviW FaGiaW (Position ID: WFS000548) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+CesiWa CEreWE, KeviW FaGiaW (Position ID: WFS000548) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+CesiWa CEreWE, KeviW FaGiaW (Position ID: WFS000548) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+HEGGie ErMega, SeGasMiaW CichaeX (Position ID: WFS000549) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+HEGGie ErMega, SeGasMiaW CichaeX (Position ID: WFS000549) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+HEGGie ErMega, SeGasMiaW CichaeX (Position ID: WFS000549) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+HEGGie ErMega, SeGasMiaW CichaeX (Position ID: WFS000549) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+HEGGie ErMega, SeGasMiaW CichaeX (Position ID: WFS000549) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+HEGGie ErMega, SeGasMiaW CichaeX (Position ID: WFS000549) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+HEGGie ErMega, SeGasMiaW CichaeX (Position ID: WFS000549) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+REdrigAez, GraWdEW AWgeX (Position ID: WFS000550) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour  
+REdrigAez, GraWdEW AWgeX (Position ID: WFS000550) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour  
+REdrigAez, GraWdEW AWgeX (Position ID: WFS000550) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour  
+REdrigAez, GraWdEW AWgeX (Position ID: WFS000550) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour  
+REdrigAez, GraWdEW AWgeX (Position ID: WFS000550) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour  
+REdrigAez, GraWdEW AWgeX (Position ID: WFS000550) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour  
+REdrigAez, GraWdEW AWgeX (Position ID: WFS000550) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour  
+REdrigAez, GraWdEW AWgeX (Position ID: WFS000550) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour  
+REdrigAez, GraWdEW AWgeX (Position ID: WFS000550) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour  
+REdrigAez, GraWdEW AWgeX (Position ID: WFS000550) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour  
+REdrigAez, GraWdEW AWgeX (Position ID: WFS000550) has less than 10 hours between shifts on 09/23/2023 and 09/23/2023, but greater than 1 hour  
+Diaz GaXvez, RicardE JEsAe (Position ID: WFS000551) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+Diaz GaXvez, RicardE JEsAe (Position ID: WFS000551) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+Diaz GaXvez, RicardE JEsAe (Position ID: WFS000551) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+Diaz GaXvez, RicardE JEsAe (Position ID: WFS000551) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+Diaz GaXvez, RicardE JEsAe (Position ID: WFS000551) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+Diaz GaXvez, RicardE JEsAe (Position ID: WFS000551) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+Diaz GaXvez, RicardE JEsAe (Position ID: WFS000551) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+Diaz GaXvez, RicardE JEsAe (Position ID: WFS000551) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+Diaz GaXvez, RicardE JEsAe (Position ID: WFS000551) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+EsMrada, JEse FeXix (Position ID: WFS000552) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour       
+EsMrada, JEse FeXix (Position ID: WFS000552) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour       
+EsMrada, JEse FeXix (Position ID: WFS000552) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+EsMrada, JEse FeXix (Position ID: WFS000552) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour       
+EsMrada, JEse FeXix (Position ID: WFS000552) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour       
+EsMrada, JEse FeXix (Position ID: WFS000552) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour       
+EsMrada, JEse FeXix (Position ID: WFS000552) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour       
+EsMrada, JEse FeXix (Position ID: WFS000552) has less than 10 hours between shifts on 09/23/2023 and 09/23/2023, but greater than 1 hour       
+SMrickXaWd, REdWey EAgeWe (Position ID: WFS000555) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour 
+SMrickXaWd, REdWey EAgeWe (Position ID: WFS000555) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour 
+SMrickXaWd, REdWey EAgeWe (Position ID: WFS000555) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour 
+SMrickXaWd, REdWey EAgeWe (Position ID: WFS000555) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour 
+SMrickXaWd, REdWey EAgeWe (Position ID: WFS000555) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour 
+SMrickXaWd, REdWey EAgeWe (Position ID: WFS000555) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour 
+SMrickXaWd, REdWey EAgeWe (Position ID: WFS000555) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour 
+SMrickXaWd, REdWey EAgeWe (Position ID: WFS000555) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour 
+SMrickXaWd, REdWey EAgeWe (Position ID: WFS000555) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour 
+SMrickXaWd, REdWey EAgeWe (Position ID: WFS000555) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour 
+RAvaXcaGa GaWAeXEs, DaWieX JesAs (Position ID: WFS000556) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+RAvaXcaGa GaWAeXEs, DaWieX JesAs (Position ID: WFS000556) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+RAvaXcaGa GaWAeXEs, DaWieX JesAs (Position ID: WFS000556) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+RAvaXcaGa GaWAeXEs, DaWieX JesAs (Position ID: WFS000556) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+RAvaXcaGa GaWAeXEs, DaWieX JesAs (Position ID: WFS000556) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+RAvaXcaGa GaWAeXEs, DaWieX JesAs (Position ID: WFS000556) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+RAvaXcaGa GaWAeXEs, DaWieX JesAs (Position ID: WFS000556) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+RAvaXcaGa GaWAeXEs, DaWieX JesAs (Position ID: WFS000556) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+RAvaXcaGa GaWAeXEs, DaWieX JesAs (Position ID: WFS000556) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+JerEWiCE CEraXes, CarXEs D (Position ID: WFS000557) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+JerEWiCE CEraXes, CarXEs D (Position ID: WFS000557) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+JerEWiCE CEraXes, CarXEs D (Position ID: WFS000557) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+JerEWiCE CEraXes, CarXEs D (Position ID: WFS000557) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+JerEWiCE CEraXes, CarXEs D (Position ID: WFS000557) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+JerEWiCE CEraXes, CarXEs D (Position ID: WFS000557) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+JerEWiCE CEraXes, CarXEs D (Position ID: WFS000557) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+CharXes, EGadiah SEraccE Jr (Position ID: WFS000566) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+CharXes, EGadiah SEraccE Jr (Position ID: WFS000566) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+DECiWgAez AviWa, CigAeX AWgeX (Position ID: WFS000569) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+DECiWgAez AviWa, CigAeX AWgeX (Position ID: WFS000569) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+DECiWgAez AviWa, CigAeX AWgeX (Position ID: WFS000569) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+DECiWgAez AviWa, CigAeX AWgeX (Position ID: WFS000569) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+DECiWgAez AviWa, CigAeX AWgeX (Position ID: WFS000569) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+DECiWgAez AviWa, CigAeX AWgeX (Position ID: WFS000569) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+DECiWgAez AviWa, CigAeX AWgeX (Position ID: WFS000569) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+CAevas ZavaXa, JErge XAis (Position ID: WFS000571) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour 
+CAevas ZavaXa, JErge XAis (Position ID: WFS000571) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour 
+CAevas ZavaXa, JErge XAis (Position ID: WFS000571) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour 
+CAevas ZavaXa, JErge XAis (Position ID: WFS000571) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour 
+CAevas ZavaXa, JErge XAis (Position ID: WFS000571) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour 
+CAevas ZavaXa, JErge XAis (Position ID: WFS000571) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour 
+CAevas ZavaXa, JErge XAis (Position ID: WFS000571) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour 
+CAevas ZavaXa, JErge XAis (Position ID: WFS000571) has less than 10 hours between shifts on 09/23/2023 and 09/23/2023, but greater than 1 hour 
+XariEs XaWdaverde, XAis ErWesME (Position ID: WFS000572) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+XariEs XaWdaverde, XAis ErWesME (Position ID: WFS000572) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+XariEs XaWdaverde, XAis ErWesME (Position ID: WFS000572) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+XariEs XaWdaverde, XAis ErWesME (Position ID: WFS000572) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+XariEs XaWdaverde, XAis ErWesME (Position ID: WFS000572) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+XariEs XaWdaverde, XAis ErWesME (Position ID: WFS000572) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+XariEs XaWdaverde, XAis ErWesME (Position ID: WFS000572) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+XariEs XaWdaverde, XAis ErWesME (Position ID: WFS000572) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+XariEs XaWdaverde, XAis ErWesME (Position ID: WFS000572) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+VaXderraCa CasMiXXE, Escar FaGiaW (Position ID: WFS000573) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+VaXderraCa CasMiXXE, Escar FaGiaW (Position ID: WFS000573) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+VaXderraCa CasMiXXE, Escar FaGiaW (Position ID: WFS000573) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+VaXderraCa CasMiXXE, Escar FaGiaW (Position ID: WFS000573) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+VaXderraCa CasMiXXE, Escar FaGiaW (Position ID: WFS000573) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+CiGriaW DeXgadE, EXeWa S (Position ID: WFS000574) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour  
+CiGriaW DeXgadE, EXeWa S (Position ID: WFS000574) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour  
+CiGriaW DeXgadE, EXeWa S (Position ID: WFS000574) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour  
+CarMer, XyWWeXX DejAaW Jr (Position ID: WFS000576) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour 
+SaWchez, ArWAXfE (Position ID: WFS000577) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+SaWchez, ArWAXfE (Position ID: WFS000577) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+SaWchez, ArWAXfE (Position ID: WFS000577) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+SaWchez, ArWAXfE (Position ID: WFS000577) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+SaWchez, ArWAXfE (Position ID: WFS000577) has less than 10 hours between shifts on 09/18/2023 and 09/19/2023, but greater than 1 hour
+SaWchez, ArWAXfE (Position ID: WFS000577) has less than 10 hours between shifts on 09/22/2023 and 09/23/2023, but greater than 1 hour
+VasqAez, JEhW SeGasMiaW (Position ID: WFS000578) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour   
+VasqAez, JEhW SeGasMiaW (Position ID: WFS000578) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour   
+VasqAez, JEhW SeGasMiaW (Position ID: WFS000578) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour   
+VasqAez, JEhW SeGasMiaW (Position ID: WFS000578) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour   
+VasqAez, JEhW SeGasMiaW (Position ID: WFS000578) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour   
+GAMierrez, PedrE CigAeX (Position ID: WFS000579) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour   
+GAMierrez, PedrE CigAeX (Position ID: WFS000579) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour   
+GAMierrez, PedrE CigAeX (Position ID: WFS000579) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour   
+GAMierrez, PedrE CigAeX (Position ID: WFS000579) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour   
+GAMierrez, PedrE CigAeX (Position ID: WFS000579) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour   
+GAMierrez, PedrE CigAeX (Position ID: WFS000579) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour   
+GAMierrez, PedrE CigAeX (Position ID: WFS000579) has less than 10 hours between shifts on 09/22/2023 and 09/23/2023, but greater than 1 hour   
+HerWaWdez SaWchez, AWdrew AWMhEWy (Position ID: WFS000581) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour
+HerWaWdez SaWchez, AWdrew AWMhEWy (Position ID: WFS000581) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+HerWaWdez SaWchez, AWdrew AWMhEWy (Position ID: WFS000581) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+HerWaWdez SaWchez, AWdrew AWMhEWy (Position ID: WFS000581) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+HerWaWdez SaWchez, AWdrew AWMhEWy (Position ID: WFS000581) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+HerWaWdez SaWchez, AWdrew AWMhEWy (Position ID: WFS000581) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour
+HerWaWdez SaWchez, AWdrew AWMhEWy (Position ID: WFS000581) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+HerWaWdez SaWchez, AWdrew AWMhEWy (Position ID: WFS000581) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+HerWaWdez SaWchez, AWdrew AWMhEWy (Position ID: WFS000581) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+De XEs SaWMEs, JEseph XAis (Position ID: WFS000582) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+De XEs SaWMEs, JEseph XAis (Position ID: WFS000582) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+De XEs SaWMEs, JEseph XAis (Position ID: WFS000582) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour
+De XEs SaWMEs, JEseph XAis (Position ID: WFS000582) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+De XEs SaWMEs, JEseph XAis (Position ID: WFS000582) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+De XEs SaWMEs, JEseph XAis (Position ID: WFS000582) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+ViXXa, AXfredE AieXXE (Position ID: WFS000583) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour     
+ViXXa, AXfredE AieXXE (Position ID: WFS000583) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour     
+ViXXa, AXfredE AieXXE (Position ID: WFS000583) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour     
+ViXXa, AXfredE AieXXE (Position ID: WFS000583) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour     
+ViXXa, AXfredE AieXXE (Position ID: WFS000583) has less than 10 hours between shifts on 09/23/2023 and 09/23/2023, but greater than 1 hour     
+ArCeWMa FXEres, JEWaMhaW (Position ID: WFS000584) has less than 10 hours between shifts on 09/10/2023 and 09/10/2023, but greater than 1 hour  
+ArCeWMa FXEres, JEWaMhaW (Position ID: WFS000584) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour  
+ArCeWMa FXEres, JEWaMhaW (Position ID: WFS000584) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour  
+ArCeWMa FXEres, JEWaMhaW (Position ID: WFS000584) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour  
+ArCeWMa FXEres, JEWaMhaW (Position ID: WFS000584) has less than 10 hours between shifts on 09/17/2023 and 09/17/2023, but greater than 1 hour  
+ArCeWMa FXEres, JEWaMhaW (Position ID: WFS000584) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour  
+ArCeWMa FXEres, JEWaMhaW (Position ID: WFS000584) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour  
+ArCeWMa FXEres, JEWaMhaW (Position ID: WFS000584) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour  
+ArCeWMa FXEres, JEWaMhaW (Position ID: WFS000584) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour  
+RaCEs HerWaWdez, AdieX ECar (Position ID: WFS000585) has less than 10 hours between shifts on 09/11/2023 and 09/11/2023, but greater than 1 hour
+RaCEs HerWaWdez, AdieX ECar (Position ID: WFS000585) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour
+RaCEs HerWaWdez, AdieX ECar (Position ID: WFS000585) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+RaCEs HerWaWdez, AdieX ECar (Position ID: WFS000585) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour
+RaCEs HerWaWdez, AdieX ECar (Position ID: WFS000585) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+RaCEs HerWaWdez, AdieX ECar (Position ID: WFS000585) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+RaCEs HerWaWdez, AdieX ECar (Position ID: WFS000585) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+RaCEs HerWaWdez, AdieX ECar (Position ID: WFS000585) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour
+XariEs, Cesar GiEvaWWi (Position ID: WFS000587) has less than 10 hours between shifts on 09/12/2023 and 09/12/2023, but greater than 1 hour    
+XariEs, Cesar GiEvaWWi (Position ID: WFS000587) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour
+XariEs, Cesar GiEvaWWi (Position ID: WFS000587) has less than 10 hours between shifts on 09/14/2023 and 09/14/2023, but greater than 1 hour    
+XariEs, Cesar GiEvaWWi (Position ID: WFS000587) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour    
+XariEs, Cesar GiEvaWWi (Position ID: WFS000587) has less than 10 hours between shifts on 09/16/2023 and 09/16/2023, but greater than 1 hour    
+XariEs, Cesar GiEvaWWi (Position ID: WFS000587) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour    
+XariEs, Cesar GiEvaWWi (Position ID: WFS000587) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour    
+XariEs, Cesar GiEvaWWi (Position ID: WFS000587) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour    
+XariEs, Cesar GiEvaWWi (Position ID: WFS000587) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour    
+XariEs, Cesar GiEvaWWi (Position ID: WFS000587) has less than 10 hours between shifts on 09/22/2023 and 09/22/2023, but greater than 1 hour    
+AGeX, WaMhaW REGerM PeWa (Position ID: WFS000588) has less than 10 hours between shifts on 09/13/2023 and 09/13/2023, but greater than 1 hour  
+AGeX, WaMhaW REGerM PeWa (Position ID: WFS000588) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour  
+AGeX, WaMhaW REGerM PeWa (Position ID: WFS000588) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour  
+AGeX, WaMhaW REGerM PeWa (Position ID: WFS000588) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour  
+AGeX, WaMhaW REGerM PeWa (Position ID: WFS000588) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour  
+WgAyeW, RayCEWd (Position ID: WFS000589) has less than 10 hours between shifts on 09/15/2023 and 09/15/2023, but greater than 1 hour
+WgAyeW, RayCEWd (Position ID: WFS000589) has less than 10 hours between shifts on 09/18/2023 and 09/18/2023, but greater than 1 hour
+WgAyeW, RayCEWd (Position ID: WFS000589) has less than 10 hours between shifts on 09/19/2023 and 09/19/2023, but greater than 1 hour
+WgAyeW, RayCEWd (Position ID: WFS000589) has less than 10 hours between shifts on 09/20/2023 and 09/20/2023, but greater than 1 hour
+WgAyeW, RayCEWd (Position ID: WFS000589) has less than 10 hours between shifts on 09/21/2023 and 09/21/2023, but greater than 1 hour
+Menu:
+1. Analyze 7 Consecutive Days
+2. Analyze Hours Between Shifts
+3. Analyze Single Shift More Than 14 Hours
+4. Exit
+Enter your choice:
+3
+DeXgadiXXE REdarMe, ChrisMiaW S (Position ID: WFS000523) has worked more than 14 hours on 09/17/2023
+Menu:
+1. Analyze 7 Consecutive Days
+2. Analyze Hours Between Shifts
+3. Analyze Single Shift More Than 14 Hours
+4. Exit
+Enter your choice:
+4
+Exiting the program.
