@@ -14,7 +14,7 @@ This program analyzes employee data from a CSV file to provide insights into con
 
    ```bash
    git clone https://github.com/himanshu1161/EmployeeAnalysis-using-JS.
-   cd <repository_directory>
+   cd 
 Install dependencies:
 npm install
 Run:
